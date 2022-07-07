@@ -1,8 +1,9 @@
 # shaopeng-admin
 ```
 纯新手 bug很多页面不好看 第二个项目 以后加油!
-api是B站找到  [Markdown语法](https://markdown.com.cn)。
 ```
+api是B站找到  [Markdown语法](https://markdown.com.cn)。
+
 ## Project setup
 ```
 yarn install
