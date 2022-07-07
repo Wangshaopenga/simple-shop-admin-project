@@ -1,7 +1,7 @@
 # shaopeng-admin
 ```
 纯新手 bug很多页面不好看 第二个项目 以后加油!
-api是B站找到   [API文档](https://www.showdoc.com.cn/1207745568269674/6094279351627422)
+api是B站找到  [Markdown语法](https://markdown.com.cn)。
 ```
 ## Project setup
 ```
